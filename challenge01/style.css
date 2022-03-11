@@ -21,6 +21,9 @@ body {
   font-family: sans-serif;
 }
 
+.intro-content{
+  width: 50%;
+}
 .container {
   background: #23424a;
   color: white;
@@ -29,5 +32,5 @@ body {
   margin: 0 auto;
 
   padding: 2em;
-  height: 300px;
+  /* height: 300px; */
 }
