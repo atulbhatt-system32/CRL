@@ -77,12 +77,18 @@ header {
     margin: 0;
     padding: 0;
     list-style: none;
+    width: 50%;
+    font-size: 1rem;
+    font-weight: 500;
+    display: flex;
 }
+
 
 .nav__link {
     color: #fff;
     text-decoration: none;
-    text-transform: uppercase;;
+    text-transform: uppercase;
+    margin-right: 1em;
 }
 
 .nav__link--button {
